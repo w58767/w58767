@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @w58767
 - 👀 I’m interested in qt c/c++
 - 🌱 I’m currently learning qt c/c++
-- 💞️ I’m looking to collaborate on qt nginx win32 edit or compile by qt creator
+- 💞️ I’m looking to collaborate on  nginx opensource edit or compile by qt creator in win32
 - 📫 How to reach me 55255867@qq.com
 
 <!---
